@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CarRentalsystem
+</name>
+</assembly>
+<members>
+<member name="P:Car_Rental_system.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Car_Rental_system.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Car_Rental_system.My.Resources.Resources.client_login_icon_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Car_Rental_system.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.AdminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ClientsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ListOfCarsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.RentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.Rent_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.AdminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ClientsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ListOfCarsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.RentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.Rent_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.AdminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ClientsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ListOfCarsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.RentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.Rent_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet.ReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.AdminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.ClientsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.ListOfCarsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.RentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.Rent_DetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.ReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Car_Rental_system.CarRentalSystemDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Car_Rental_system.CarRentalSystemDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Car_Rental_system.CarRentalSystemDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Car_Rental_system.CarRentalSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Car_Rental_system.CarRentalSystemDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Car_Rental_system.CarRentalSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Car_Rental_system.CarRentalSystemDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Car_Rental_system.CarRentalSystemDataSetTableAdapters.TableAdapterManager.UpdateAll(Car_Rental_system.CarRentalSystemDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Car_Rental_system.CarRentalSystemDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
